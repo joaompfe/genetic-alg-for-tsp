@@ -1,0 +1,3 @@
+mut-prob = 0.10
+mut = 5 trocas de cidades aleatórias
+elitismo = 8 indivíduos
